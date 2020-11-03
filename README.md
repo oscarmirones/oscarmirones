@@ -1,8 +1,8 @@
-# Hi there 👋
+# Welcome to my personal site!👋
 
-### My passion is data analysis. Learning continuously about machine learning techniques, deep learning and data mining applied to any study field.
+### My passion is data analysis. Learning continuously about machine learning techniques, deep learning and data mining applied to meteorology and climatology.
 
-- 🌱 I’m currently learning machine learning tecniques applied to meteorology. In particular, applied to modeling tropical cyclone's precipitation.
+- 🌱 I’m currently learning machine learning tecniques applied to meteorology. In particular, applied to modeling tropical cyclone's precipitation. I also study the calibration of precipitation data from satellites.
 - 😍 Football lover
 - 📘📕📔📗 University of Cantabria
 
