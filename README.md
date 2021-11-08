@@ -3,7 +3,6 @@
 ### My passion is data analysis. Learning continuously about machine learning techniques, deep learning and data mining applied to meteorology and climatology.
 
 - 🌱 I’m currently learning machine learning tecniques applied to meteorology. I also study the calibration of precipitation data from satellites.
-- 😍 Football lover
 - 📘📕📔📗 University of Cantabria
 
 <br />
